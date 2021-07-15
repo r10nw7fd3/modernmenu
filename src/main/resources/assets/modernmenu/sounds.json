@@ -1,0 +1,7 @@
+{
+	"mm_hoverclick": {
+		"category": "master",
+		"subtitle": "modernmenu.subtitle.hoverclick",
+		"sounds": ["modernmenu:hoverclick"]
+	}
+}
